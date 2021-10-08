@@ -1,0 +1,1172 @@
+body{
+	width: 1920px;
+}
+.header{
+	display: flex;
+}
+.bestrong{
+	margin-top: 45px;
+	margin-right: 334px;
+	margin-bottom: 42px;
+	margin-left: 142px;
+}
+.home{
+	font-family: Futura PT;
+	font-size: 24px;
+	margin-right: 72px;
+	margin-top: 46px;
+	margin-bottom: 42px;
+}
+.about{
+	margin-right: 70px;
+	margin-top: 46px;
+	margin-bottom: 42px;
+	font-size: 24px;
+}
+.clases{
+	margin-right: 76px;
+	font-size: 24px;
+	font-family: Futura PT;
+	margin-top: 46px;
+}
+.news{
+	font-size: 24px;
+	margin-right: 76px;
+	margin-top: 46px;
+}
+.contact{
+	font-size: 24px;
+	margin-top: 46px;
+	margin-right: 226px;
+}
+.pone{
+	width: 32px;
+	height: 32px;
+	margin-top: 48px;
+	margin-right: 9px;
+}
+.number{
+	font-size: 24px;
+	margin-top: 46px;
+	margin-right: 138px;
+}
+.back{
+	width: 100%;
+	height: 916px;
+	margin-top: 42px;
+	position: relative;
+}
+.practice{
+	font-size: 30px;
+	margin-bottom: 5.5px;
+}
+.solutions{
+	font-size: 75px;
+	margin-bottom: 54px;
+}
+.get{
+	width: 301px;
+}
+.warwera{
+	color: white;
+	width: 913px;
+	height: 381px;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 700px;
+    left: 680px;
+}
+.icon-div{
+	height: 277px;
+	background-color: white;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 900px;
+	left: 19px;
+}
+.icon{
+	padding: 26.5px 15.6px 24.8px 17.1px;
+	border-top: solid 2px;
+	border-color: rgb(94, 182, 225);
+	border-left: solid 1px rgb(246, 247, 251);
+}
+.facebookk{
+	padding: 25.5px 19.9px 26.5px 21.7px;
+	border-top: solid 2px;
+	border-color: rgb(94, 182, 225);
+}
+.twitterr{
+	padding: 28.5px 16.1px 26.5px 17.1px;
+	border-top: solid 2px;
+	border-color: rgb(94, 182, 225);
+}
+.instagramm{
+	padding: 24.5px 15.3px 28px 17.7px;
+	border-top: solid 2px;
+	border-color: rgb(94, 182, 225);
+}
+.goals{
+	margin-top: 109px;
+}
+.pirveli:: after{
+	content: '';
+    background-color: black;
+    position: absolute;
+    width: 476px;
+    margin-right: 21px;
+    top: 0px;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+.pirveli:hover::after{
+	opacity: 0.5;
+}
+.body{
+	font-size: 30px;
+	line-height: 25px;
+	margin-bottom: 5px;
+}
+.trained{
+	font-size: 20px;
+	margin-bottom: 26px;
+    padding-left: 50px;
+}
+.goals{
+	height: 283px;
+	display: flex;
+    margin-left: 236px;
+    margin-right: 215px;
+}
+.fasi{
+	padding-left: 100px;
+}
+.relative{
+	vertical-align: middle;
+	width: 476px;
+	height: 283px;
+	margin-right: 21px;
+}
+.building{
+	color: white;
+	position: relative;
+	top: -60%;
+    left: 12%;
+}
+.mesame{
+	vertical-align: middle;
+	width: 476px;
+	height: 283px;
+}
+.info{
+	display: flex;
+    margin-left: 144px;
+    margin-right: 140px;
+}
+.text{
+	margin-top: 380px;
+}
+.about-us{
+	font-size: 15px;
+	color: rgb(255, 108, 44);
+}
+.welcome{
+	height: 80px;
+	width: 571px;
+	font-size: 60px;
+}
+.border{
+	border-bottom: solid 2px rgb(94, 182, 225) ;
+	width: 168px;
+}
+.from{
+	width: 670px;
+	color: rgb(225, 108, 44);
+	margin-bottom: 80px;
+	font-size: 30px;
+	margin-top: 58px;
+}
+.run{
+	width: 670px;
+	font-size: 30px;
+	color: rgb(158, 158, 158);
+	margin-bottom: 49px;
+}
+.zoma{
+	width: 380px;
+    height: 556px;
+    margin-left: 155px;
+    margin-top: 439px;
+}
+.sirbili{
+	width: 380px;
+	height: 438px;
+	margin-bottom: 54px;
+}
+.ori{
+	margin-top: 252px;
+    margin-left: 51px;
+}
+.sport-mode{
+	margin-top: 204px;
+	background-color: rgb(34, 34, 36);
+	width: 1920px;
+    height: 1537px;
+    position: relative;
+}
+.clasess{
+	position: absolute;
+	left: 817px;
+	top: 112px;
+	color: white;
+	font-size: 60px;
+	width: 330px;
+	height: 80px;
+}
+.border-clasess{
+	border-bottom: solid #5EB6E1;
+	position: absolute;
+	width: 128px;
+	left: 903px;
+	top: 215px;
+}
+.description{
+	color: white;
+	font-family: Futura PT;
+	font-size: 30px;
+	position: absolute;
+	left: 323px;
+	top: 259px;
+	width: 1275px;
+	height: 155px;
+	text-align: center;
+}
+.fade{
+	position: absolute;
+	left: 0px;
+	top: 539px;
+	width: 638px;
+	height: 499px;
+}
+.hover::after{
+    content: "Cardio Fitness";
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #74C9FC;
+    position: absolute;
+    font-size: 45px;
+    width: 638px;
+    height: 134px;
+    top: 903px;
+    left: 0px;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+.hover:hover::after{
+	opacity: 0.7;
+}
+.cycle{
+	position: absolute;
+	right: 0px;
+	top: 539px;
+	width: 638px;
+	height: 499px;
+}
+.Cycle-Training::after{
+    content: "Cycle-Training";
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #74C9FC;
+    position: absolute;
+    font-size: 45px;
+    width: 638px;
+    height: 134px;
+    top: 903px;
+    right: 0px;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+.Cycle-Training:hover::after{
+	opacity: 0.7;
+}
+.attack{
+	position: absolute;
+	left: 0px;
+	top: 1038px;
+	width: 638px;
+	height: 499px;
+}
+.Body-Attack::after{
+	content: "Body-Attack";
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #74C9FC;
+    position: absolute;
+    font-size: 45px;
+    width: 638px;
+    height: 134px;
+    top: 1403px;
+    left: 0px;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+.Body-Attack:hover::after{
+	opacity: 0.7;
+}
+.yoga{
+	position: absolute;
+	left: 638px;
+	top: 1038px;
+	width: 644px;
+	height: 499px;
+}
+.Yoga-Pilates::after{
+	content: "Yoga-Pilates";
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #74C9FC;
+    position: absolute;
+    font-size: 45px;
+    width: 644px;
+    height: 134px;
+    top: 1403px;
+    left: 638px;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+.Yoga-Pilates:hover::after{
+	opacity: 0.7;
+}
+.weight{
+	position: absolute;
+	right: 0px;
+	top: 1038px;
+	width: 638px;
+	height: 499px;
+}
+.Weight-Lifting::after{
+	content: "Weight-Lifting";
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #74C9FC;
+    position: absolute;
+    font-size: 45px;
+    width: 638px;
+    height: 134px;
+    top: 1403px;
+    right: 0px;
+    opacity: 0;
+    transition: opacity 0.4s ease;
+}
+.Weight-Lifting:hover::after{
+	opacity: 0.7;
+}
+.gym{
+	position: relative;
+	width: 644px;
+	height: 499px;
+	top: 539px;
+	left: 638px;
+}
+.Advanced-Gymnastic{
+	width: 555px;
+	height: 377px;
+	background-color: #00A2FF;
+	position: absolute;
+	opacity: 0.8;
+	left: 683px;
+	top: 594px;
+}
+.Advanced-title{
+	color: white;
+	font-size: 45px;
+	margin-top: 52px;
+	margin-left: 90px;
+}
+.gymnastic-border{
+	border-bottom: solid white;
+	width: 162px;
+	margin-top: 12px;
+	margin-left: 196px;
+}
+.slogan{
+	color: white;
+	font-size: 23px;
+	width: 435px;
+	height: 95px;
+	margin-top: 40px;
+	margin-left: 60px;
+	text-align: center;
+}
+.gymnastic-botton{
+	margin-top: 17px;
+	margin-left: 166px;
+}
+.full-team{
+	height: 1001px;
+}
+.team{
+	font-size: 60px;
+	margin-top: 185px;
+	margin-left: 773px;
+	font-family: sans-serif;
+}
+.team-border{
+	border-bottom: solid #00A2FF;
+	width: 128px;
+	margin-left: 896.5px;
+	margin-top: 15.5px;
+}
+.team-description{
+	font-size: 30px;
+	width: 1107px;
+	height: 142px;
+	margin-left: 402px;
+	margin-top: 52.5px;
+	font-weight: inherit;
+	text-align: center;
+}
+.emma{
+	width: 460px;
+	height: 458px;
+	display: block;
+	cursor: pointer;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+	margin-top: 62px;
+	margin-left: 236px;	
+	margin-right: 0px;
+}
+.emma:hover{
+    transform: scale(1.1);
+}
+.team-member{
+	width: 460px;
+	height: 458px;	
+}
+.shadow{
+	background-color: white;
+	width: 460px;
+	height: 191px;
+	position: relative;
+    content: "";
+    box-shadow: -30px 20px 30px rgba(0, 0, 0, 0.1); 
+}
+.Higgins-Emma{
+	position: absolute;
+	font-size: 45px;
+	top: 26px;
+	left: 103px;
+}
+.Body-Bulding{
+	position: absolute;
+	font-size: 30px;
+	left: 151px;
+	top: 86px;
+}
+.facebook{
+	position: absolute;
+	left: 189px;
+	top: 137px;
+}
+.twitter{
+	position: absolute;
+	left: 219px;
+	top: 137px;
+}
+.instagram{
+	position: absolute;
+	top: 137px;
+	left: 258px;
+}
+.katherina{
+	width: 460px;
+	height: 458px;
+	display: block;
+	cursor: pointer;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+    margin-top: -460px;
+	margin-left: 730px;	
+    position: absolute;
+}
+.katherina:hover{
+	transform: scale(1.1);
+}
+.katherina-shadow{
+	background-color: white;
+	width: 460px;
+	height: 191px;
+	position: relative;
+    content: "";
+    box-shadow: -30px 20px 30px rgba(0, 0, 0, 0.1);
+}
+.Katherine-Robinson{
+	position: absolute;
+	font-size: 45px;
+	top: 26px;
+	left: 57px;
+	width: 387px;
+}
+.skye{
+	width: 460px;
+	height: 458px;
+	display: block;
+	cursor: pointer;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+    margin-top: -460px;
+	margin-left: 1224px;	
+    position: absolute;
+}
+.skye:hover{
+	transform: scale(1.1);
+}
+.Skye-shadow{
+	background-color: white;
+	width: 460px;
+	height: 191px;
+	position: relative;
+    content: "";
+    box-shadow: -30px 20px 30px rgba(0, 0, 0, 0.1);
+}
+.Skye-Sorenson{
+	font-size: 45px;
+	margin-top: 26px;
+	margin-left: 99px;
+	width: 290px;
+	position: absolute;
+}
+.whole-team{
+	width: 383px;
+	height: 92px;
+	margin-top: 83px;
+	margin-left: 769px;
+}
+.testmonials{
+	background-color: #181A1F;
+	margin-top: 209px;
+	width: 1920px;
+	height: 836px;
+	position: relative;
+}
+.testmonials-title{
+	color: white;
+	font-size: 60px;
+	margin-top: 120px;
+	margin-left: 806px;
+	position: absolute;
+}
+.line{
+	width: 128px;
+	height: 0px;
+	border-bottom: solid #5EB6E1;
+	margin-top: 216.5px;
+	margin-left: 896.5px;
+	position: absolute;
+}
+.testmonials-description{
+	color: white;
+	font-size: 30px;
+	width: 804px;
+	height: 170px;
+	margin-top: 307px;
+	margin-left: 558px;
+	position: absolute;
+	text-align: center;
+	line-height: 50px;
+}
+.left{
+	position: absolute;
+	margin-top: 343px;
+	margin-left: 356px;
+}
+.right{
+	position: absolute;
+	margin-top: 343px;
+	margin-left: 1524.3px;
+}
+.profile{
+	position: absolute;
+	margin-top: 505.7px;
+	margin-left: 905.7px;
+}
+.profile-name{
+	position: absolute;
+	color: white;
+	font-size: 30px;
+	margin-top: 637.6px;
+	margin-left: 859px;
+}
+.client{
+	position: absolute;
+	color: white;
+	font-size: 20px;
+	margin-left: 915.3px;
+	margin-top: 678.1px;
+}
+.slide{
+	position: absolute;
+	margin-top: 734px;
+	margin-left: 942px;
+}
+.news-title{
+	color: #292F39;
+	margin-top: 171px;
+	margin-left: 782px;
+	font-size: 60px;
+}
+.news-line{
+	border-bottom: solid #5EB6E1;
+	width: 128px;
+	margin-top: 17px;
+	margin-left: 896.5px;
+}
+.news{
+	display: flex;
+}
+.marathon{
+	position: relative;
+	background-color: #13191A;
+	width: 390px;
+	height: 522px;
+	margin-top: 83px;
+	margin-left: 348px;
+	display: block;
+	cursor: pointer;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.marathon:hover{
+	transform: scale(1.1);
+}
+.marathon-run{
+	width: 330px;
+	height: 219px;
+	margin-top: 24px;
+	margin-left: 30px;
+}
+.college{
+	position: absolute;
+	width: 338px;
+	height: 65px;
+	color: #5EB6E1;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 288px;
+    margin-left: 30px;
+    top: 0px;
+}
+.white{
+	position: absolute;
+	color: white;
+	width: 330px;
+	height: 67px;
+	margin-left: 30px;
+	margin-top: 368px;
+	font-size: 14px;
+	line-height: 24px;
+	top: 0px;
+}
+.time{
+	display: flex;
+	position: absolute;
+	margin-top: 468px;
+	top: 0px;
+	padding-top: 33px;
+}
+.earth{
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	margin-left: 30px;
+	bottom: 0px;
+}
+.long-name{
+	position: absolute;
+	color: white;
+	font-size: 14px;
+	margin-top: 468px;
+	margin-left: 56px;
+	bottom: 0px;
+	width: 107px;
+	height: 16px;
+}
+.clock{
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	bottom: 0px;
+	margin-left: 188px;
+}
+.hours{
+	color: white;
+	position: absolute;
+	width: 107px;
+	height: 16px;
+	font-size: 14px;
+	margin-top: 468px;
+	margin-left: 214px;
+	bottom: 0px;
+}
+.boxers{
+	position: relative;
+	background-color: #13191A;
+	width: 390px;
+	height: 522px;
+	margin-top: 83px;
+	margin-left: 27px;
+	display: block;
+	cursor: pointer;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.boxers:hover{
+	transform: scale(1.1);
+}
+.boxer-workout{
+    position: absolute;
+    margin-top: 31px;
+    margin-left: 30px;
+    height: 219px;
+    width: 330px;
+}
+.female-boxers{
+	position: absolute;
+	width: 338px;
+	height: 65px;
+	color: #5EB6E1;
+	font-family: 'Raleway', sans-serif;
+	margin-top: 282px;
+    margin-left: 30px;
+}
+.fitness-blog{
+	position: relative;
+	background-color: #13191A;
+	width: 390px;
+	height: 522px;
+	margin-top: 83px;
+	margin-left: 27px;
+	display: block;
+	cursor: pointer;
+	transform: scale(1);
+	transition: 0.3s ease-in-out;
+}
+.fitness-blog:hover{
+	transform: scale(1.1);
+}
+.more-news{
+	width: 301px;
+	height: 74px;
+	margin-top: 72px;
+	margin-left: 810px;
+}
+.contact-us{
+	background-color: #181A1F;
+	position: relative;
+	width: 1920px;
+	height: 1098.34px;
+	margin-top: 251px;
+}
+.contact-us-title{
+	position: absolute;
+	color: white;
+	margin-top: 176px;
+	margin-left: 125px;
+	font-size: 60px;
+}
+.contact-us-line{
+	position: absolute;
+	border-bottom: solid #5EB6E1;
+	margin-top: 275.5px;
+	margin-left: 140.5px;
+	width: 128px;
+}
+.f-subject{
+	position: absolute;
+	width: 586px;
+	height: 63px;
+	margin-top: 345px;
+	margin-left: 140px;
+}
+.select-subject{
+	width: 100%;
+	height: 100%;
+	background-color: #181A1F;
+	border: solid #5EB6E1;
+	border-width: 1px;
+	font-size: 20px;
+	color: white;
+	padding-top: 17px;
+	padding-left: 25px;
+}
+.mail{
+	position: absolute;
+	width: 561px;
+	height: 63px;
+	margin-top: 438px;
+	margin-left: 140px;
+}
+.mail-text{
+	width: 561px;
+	height: 100%;
+	background-color:#181A1F ;
+	border: solid #5EB6E1;
+	border-width: 1px;
+	font-size: 20px;
+	color: white;
+	padding-left: 25px;
+}
+.f-textarea{
+	width: 566px;
+	height: 188px;
+	background-color: #181A1F;
+	position: absolute;
+	margin-top: 531px;
+	margin-left: 140px;
+}
+.messagebox{
+	width: 100%;
+	height: 100%;
+	background-color: #181A1F;
+	border: solid #5EB6E1;
+	border-width: 1px;
+	color: white;
+	font-size: 20px;
+	padding-top: 14px;
+	padding-left: 25px;
+}
+.submit{
+	width: 581px;
+	height: 63px;
+	position: absolute;
+	margin-top: 758px;
+	margin-left: 140px;
+}
+.example{
+	position: absolute;
+	color: white;
+	font-size: 20px;
+	margin-top: 883.6px;
+	margin-left: 140px;
+}
+.facebook-f{
+	position: absolute;
+	width: 11px;
+	height: 20px;
+}
+.linkedin{
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	padding-left: 47.5px;
+}
+.twiter-t{
+	position: absolute;
+	width: 25px;
+	height: 20px;
+	padding-left: 115.6px;
+}
+.icon-f{
+	position: absolute;
+	margin-top: 950.6px;
+	margin-left: 140px;
+}
+.training{
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 968px;
+	width: 952px;
+	height: 1090px;
+}
+.quick{
+	position: relative;
+	width: 1920px;
+	height: 566px;
+	background-color: #19191C;
+}
+.bestrong-logo{
+	width: 202px;
+	height: 44px;
+	position: absolute;
+	margin-top: 316px;
+	margin-left: 230px;
+}
+.quick-contacts{
+	position: absolute;
+	color: white;
+	font-size: 30px;
+	width: 199px;
+	height: 40px;
+	margin-top: 119px;
+	margin-left: 814px;
+}
+.raritan{
+	position: absolute;
+	color: white;
+	font-size: 25px;
+	width: 267px;
+	height: 63px;
+	margin-top: 194px;
+	margin-left: 814px;
+	line-height: 30px;
+}
+.call{
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	margin-top: 280px;
+	margin-left: 814px;
+}
+.phone-number{
+	position: absolute;
+	color: white;
+	font-size: 19px;
+	width: 152px;
+	height: 26px;
+	margin-top: 273px;
+	margin-left: 858px;
+}
+.ic-mail{
+	position: absolute;
+	width: 20px;
+	height: 16px;
+	margin-left: 814px;
+	margin-top: 312px;
+
+}
+.gmail{
+	position: absolute;
+	color: white;
+	font-size: 19px;
+	margin-top: 304px;
+	margin-left: 858px;
+}
+.instagram-group{
+	position: absolute;
+	width: 32px;
+	height: 31px;
+	margin-top: 360px;
+	margin-left: 814px;
+}
+.twitter-group{
+	position: absolute;
+	width: 32px;
+	height: 31px;
+	margin-top: 360px;
+	margin-left: 868px;
+}
+.facebook-group{
+	position: absolute;
+	width: 32px;
+	height: 31px;
+	margin-top: 360px;
+	margin-left: 921px;
+}
+.popular-tags{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    margin-top: 119px;
+    margin-left: 1195px;
+    width: 167px;
+    height: 40px;
+}
+.workout-tag{
+	position: absolute;
+	color: #BBBBBB;
+	font-size: 14px;
+	width: 67px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 196px;
+	padding-bottom: 12px;
+	margin-left: 1195px;
+}
+.crossfit-tag{
+	position: absolute;
+	color: #BBBBBB;
+	font-size: 14px;
+	width: 60px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 196px;
+	margin-left: 1324px;
+	padding-bottom: 12px;
+}
+.shedule-tag{
+	position: absolute;
+	color: #BBBBBB;
+	font-size: 14px;
+	width: 58px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 196px;
+	margin-left: 1441px;
+	padding-bottom: 12px;
+}
+.tariners-tag{
+	position: absolute;
+	color: #BBBBBB;
+	font-size: 14px;
+	width: 62px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 29px;
+	margin-top: 258px;
+	margin-left: 1194px;
+	padding-bottom: 12px;
+}
+.boxing-tag{
+	position: absolute;
+	color: #FFFFFF;
+	font-size: 14px;
+	width: 50px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 22px;
+	padding-right: 22px;
+	margin-top: 258px;
+	margin-left: 1320px;
+	padding-bottom: 12px;
+	background-color: #5EB6E1;
+}
+.s-shedule-tag{
+	position: absolute;
+	color: #BBBBBB;
+	font-size: 14px;
+	width: 58px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 258px;
+	margin-left: 1440px;
+	padding-bottom: 12px;
+}
+.nutrition-tag{
+	position: absolute;
+	color: #BBBBBB;
+	font-size: 14px;
+	width: 72px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 311px;
+	margin-left: 1191px;
+	padding-bottom: 12px;
+}
+.gym-tag{
+	position: absolute;
+	color: #BBBBBB;
+	font-size: 14px;
+	width: 30px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 311px;
+	margin-left: 1321px;
+	padding-bottom: 12px;
+}
+.plans-tag{
+	position: absolute;
+	color: #BBBBBB;
+	font-size: 14px;
+	width: 42px;
+	height: 19px;
+	border: solid #979797;
+	border-width: 0.5px;
+	padding-top: 12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 311px;
+	margin-left: 1411px;
+	padding-bottom: 12px;
+}
+.footer-div{
+	position: relative;
+	background-color: #5EB6E1;
+    width: 1920px;
+    height: 59px;
+}
+.footer-home{
+	position: absolute;
+	color: black;
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 637px;
+}
+.footer-about{
+	position: absolute;
+	color: black;
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 775px;
+}
+.footer-clases{
+	position: absolute;
+	color: black;
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 940px;
+}
+.footer-news{
+	position: absolute;
+	color: black;
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 1080px;
+}
+.footer-contact{
+	position: absolute;
+	color: black;
+	font-size: 20px;
+	margin-top: 15px;
+	margin-left: 1216px;
+}
+.finall{
+	position: relative;
+	width: 1920px;
+	height: 75px;
+	background-color: #24272E;
+}
+.finall-text{
+	color: #F6F7FB;
+	position: absolute;
+	margin-top: 21px;
+	margin-left: 756px;
+	font-size: 17px;
+}
